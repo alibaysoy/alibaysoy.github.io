@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My 1st blog</title>
+    
+    
+    
+    <link>http://alibaysoy.github.io/</link>
+    <description>Recent content on My 1st blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jan 2023 01:50:06 +0500</lastBuildDate>
+    
+	<atom:link href="http://alibaysoy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mypost</title>
+      <link>http://alibaysoy.github.io/posts/mypost/</link>
+      <pubDate>Sat, 14 Jan 2023 01:50:06 +0500</pubDate>
+      
+      <guid>http://alibaysoy.github.io/posts/mypost/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Thats my content and im here
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
